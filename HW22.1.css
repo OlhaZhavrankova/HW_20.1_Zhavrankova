@@ -1,0 +1,10 @@
+/*аватарка*/
+img
+{padding-left: 20px;}
+/*текст*/
+H1{ font-size: 200%; font-family: Merriweather; color: #5E7A32; }
+h2 { font-size: 150%; font-family: Merriweather; color: #FFA600; }
+p { font-size: 100%; font-family: Merriweather; color: #2B3917; }
+ul { font-size: 100%; font-family: Merriweather; color: #44AFA4; }
+ol { font-size: 100%; font-family: Merriweather; color: #2E4C00; }
+table { font-size: 100%; font-family: Arial, Helvetica, sans-serif; color: #AC00CE; }
